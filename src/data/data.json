@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "price": 2.50,
+        "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Double Espresso",
+        "price": 3.50,
+        "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Cappuccino",
+        "price": 4.00,
+        "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Thé Vert",
+        "price": 3.00,
+        "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Jus d'Orange",
+        "price": 3.50,
+        "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Croissant",
+        "price": 2.00,
+        "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Pain au Chocolat",
+        "price": 2.20,
+        "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 9,
+        "name": "Muffin Myrtille",
+        "price": 3.00,
+        "image": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 10,
+        "name": "Sandwich Jambon",
+        "price": 5.50,
+        "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 11,
+        "name": "Cheesecake",
+        "price": 4.50,
+        "image": "https://images.unsplash.com/photo-1524351199678-941a58a3df50?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 12,
+        "name": "Tiramisu",
+        "price": 5.00,
+        "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=400&q=80"
+    }
+]
